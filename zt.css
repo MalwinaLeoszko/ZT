@@ -1,0 +1,117 @@
+#container 
+	{
+		width: 1600px;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: grey;
+		min-height: 1000px;
+		padding: 25px;
+	}
+#title
+{
+	
+	background-color: orange;
+	color: black;
+	padding: 15px;
+	text-align: center;
+
+}
+#space
+{
+	height: 25px;
+	background-color: grey;
+	width: 1600px;
+}
+#buttons
+{
+	float: left;
+	background-color: orange;
+	color: black;
+	padding: 25px;
+	text-align: justify;
+	height: 800px;
+
+
+}
+#logo
+{
+	float: right;
+	background-color: orange;
+	height: 800px;
+	padding: 25px;	
+	width: 725px;
+
+}
+img
+{
+
+	width: 525px;
+	padding: 100px;
+	height: 600px;
+}
+#space2	
+{
+	clear: both;
+	height: 25px;
+	background-color: grey;
+	width: 1600px;
+}
+#footer
+{
+	background-color: black;
+	color: orange;
+	padding: 25px;
+	text-align:center;	
+}
+#projects 
+{
+	float:left;
+	height: 350px;
+	padding: 25px;
+	background-color: black;
+	color: orange;
+	width: 325px;
+	
+}
+#prices
+{
+	float:left;
+	height: 350px;
+	padding: 25px;
+	background-color: black;
+	color: orange;
+	width: 325px;
+}
+
+#clear
+{
+	clear:both;
+	
+	height: 1px;
+	
+}
+#about
+{
+	float:left;
+	height: 350px;
+	padding: 25px;
+	background-color: black;
+	color: orange;
+	width: 325px;
+}
+#contact
+{
+	float:left;
+	height: 350px;
+	padding: 25px;
+	background-color: black;
+	color: orange;
+	width: 325px;
+}
+h2
+{
+	text-align:center;
+	padding-top: 160px;
+	padding-bottom: 163px;
+	
+}
